@@ -1,0 +1,693 @@
+{
+  "md5checksum": "f14520c4ea597ff83b240ae83516084e",
+  "insertpos": "261.33",
+  "insertpospeer": "2737.0",
+  "pagedetails": {
+    "001": {
+      "index": "1.0",
+      "style": "Arabic",
+      "number": "1",
+      "label": ""
+    },
+    "002": {
+      "index": "3.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "003": {
+      "index": "43.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "004": {
+      "index": "83.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "005": {
+      "index": "84.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "006": {
+      "index": "128.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "007": {
+      "index": "129.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "008": {
+      "index": "183.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "009": {
+      "index": "184.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "010": {
+      "index": "243.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "011": {
+      "index": "244.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "012": {
+      "index": "293.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "013": {
+      "index": "301.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "014": {
+      "index": "339.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "015": {
+      "index": "376.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "016": {
+      "index": "382.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "017": {
+      "index": "420.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "018": {
+      "index": "457.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "019": {
+      "index": "470.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "020": {
+      "index": "513.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "021": {
+      "index": "559.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "022": {
+      "index": "567.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "023": {
+      "index": "604.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "024": {
+      "index": "612.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "025": {
+      "index": "649.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "026": {
+      "index": "656.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "027": {
+      "index": "692.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "028": {
+      "index": "706.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "029": {
+      "index": "742.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "030": {
+      "index": "748.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "031": {
+      "index": "784.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "032": {
+      "index": "793.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "033": {
+      "index": "830.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "034": {
+      "index": "836.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "035": {
+      "index": "875.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "036": {
+      "index": "879.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "037": {
+      "index": "917.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "038": {
+      "index": "923.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "039": {
+      "index": "961.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "040": {
+      "index": "965.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "041": {
+      "index": "1002.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "042": {
+      "index": "1010.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "043": {
+      "index": "1045.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "044": {
+      "index": "1082.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "045": {
+      "index": "1087.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "046": {
+      "index": "1124.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "047": {
+      "index": "1130.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "048": {
+      "index": "1169.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "049": {
+      "index": "1178.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "050": {
+      "index": "1213.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "051": {
+      "index": "1218.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "052": {
+      "index": "1254.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "053": {
+      "index": "1259.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "054": {
+      "index": "1297.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "055": {
+      "index": "1334.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "056": {
+      "index": "1346.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "057": {
+      "index": "1382.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "058": {
+      "index": "1396.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "059": {
+      "index": "1431.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "060": {
+      "index": "1447.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "061": {
+      "index": "1484.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "062": {
+      "index": "1492.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "063": {
+      "index": "1527.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "064": {
+      "index": "1538.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "065": {
+      "index": "1573.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "066": {
+      "index": "1586.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "067": {
+      "index": "1622.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "068": {
+      "index": "1628.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "069": {
+      "index": "1666.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "070": {
+      "index": "1670.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "071": {
+      "index": "1706.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "072": {
+      "index": "1717.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "073": {
+      "index": "1756.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "074": {
+      "index": "1763.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "075": {
+      "index": "1800.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "076": {
+      "index": "1804.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "077": {
+      "index": "1840.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "078": {
+      "index": "1882.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "079": {
+      "index": "1885.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "080": {
+      "index": "1922.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "081": {
+      "index": "1926.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "082": {
+      "index": "1963.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "083": {
+      "index": "1967.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "084": {
+      "index": "2005.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "085": {
+      "index": "2009.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "086": {
+      "index": "2061.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "087": {
+      "index": "2067.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "088": {
+      "index": "2102.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "089": {
+      "index": "2106.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "090": {
+      "index": "2142.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "091": {
+      "index": "2150.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "092": {
+      "index": "2187.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "093": {
+      "index": "2193.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "094": {
+      "index": "2230.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "095": {
+      "index": "2234.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "096": {
+      "index": "2268.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "097": {
+      "index": "2274.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "098": {
+      "index": "2312.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "099": {
+      "index": "2316.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "100": {
+      "index": "2357.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "101": {
+      "index": "2365.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "102": {
+      "index": "2407.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "103": {
+      "index": "2412.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "104": {
+      "index": "2452.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "105": {
+      "index": "2455.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "106": {
+      "index": "2514.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "107": {
+      "index": "2554.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "108": {
+      "index": "2561.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "109": {
+      "index": "2617.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "110": {
+      "index": "2623.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "111": {
+      "index": "2659.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "112": {
+      "index": "2664.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    },
+    "113": {
+      "index": "2697.0",
+      "style": "\"",
+      "number": "+1",
+      "label": ""
+    }
+  },
+  "imagedir": "C:/Users/Conape03/Documents/lysistrata\\pngs",
+  "projectid": "",
+  "languages": "en",
+  "charsuites": {
+    "Basic Latin": true
+  },
+  "bookmarks": {},
+  "imagerotate": {}
+}
