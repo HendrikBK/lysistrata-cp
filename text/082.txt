@@ -1,0 +1,4 @@
+¢ Enter M. with pallet.
+> Exit M. and returns with mattresa.
+90
+
