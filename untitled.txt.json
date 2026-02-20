@@ -1,685 +1,685 @@
 {
-  "md5checksum": "046b7336cd5c0182313a0ce2ad991da0",
-  "insertpos": "297.19",
-  "insertpospeer": "2743.0",
+  "md5checksum": "20642433b09ec37485d788dcef9200be",
+  "insertpos": "626.41",
+  "insertpospeer": "2819.0",
   "pagedetails": {
     "001": {
       "index": "1.0",
       "style": "Arabic",
       "number": "1",
-      "label": ""
+      "label": "Pg 1"
     },
     "002": {
       "index": "3.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 2"
     },
     "003": {
       "index": "43.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 3"
     },
     "004": {
       "index": "83.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 4"
     },
     "005": {
       "index": "84.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 5"
     },
     "006": {
       "index": "128.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 6"
     },
     "007": {
       "index": "129.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 7"
     },
     "008": {
       "index": "183.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 8"
     },
     "009": {
       "index": "184.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 9"
     },
     "010": {
       "index": "243.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 10"
     },
     "011": {
       "index": "244.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 11"
     },
     "012": {
       "index": "299.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 12"
     },
     "013": {
-      "index": "307.0",
+      "index": "300.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 13"
     },
     "014": {
-      "index": "345.0",
+      "index": "366.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 14"
     },
     "015": {
-      "index": "382.0",
+      "index": "416.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 15"
     },
     "016": {
-      "index": "388.0",
+      "index": "417.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 16"
     },
     "017": {
-      "index": "426.0",
+      "index": "468.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 17"
     },
     "018": {
-      "index": "463.0",
+      "index": "516.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 18"
     },
     "019": {
-      "index": "476.0",
+      "index": "517.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 19"
     },
     "020": {
-      "index": "519.0",
+      "index": "583.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 20"
     },
     "021": {
-      "index": "565.0",
+      "index": "641.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 21"
     },
     "022": {
-      "index": "573.0",
+      "index": "649.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 22"
     },
     "023": {
-      "index": "610.0",
+      "index": "686.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 23"
     },
     "024": {
-      "index": "618.0",
+      "index": "694.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 24"
     },
     "025": {
-      "index": "655.0",
+      "index": "731.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 25"
     },
     "026": {
-      "index": "662.0",
+      "index": "738.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 26"
     },
     "027": {
-      "index": "698.0",
+      "index": "774.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 27"
     },
     "028": {
-      "index": "712.0",
+      "index": "788.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 28"
     },
     "029": {
-      "index": "748.0",
+      "index": "824.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 29"
     },
     "030": {
-      "index": "754.0",
+      "index": "830.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 30"
     },
     "031": {
-      "index": "790.0",
+      "index": "866.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 31"
     },
     "032": {
-      "index": "799.0",
+      "index": "875.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 32"
     },
     "033": {
-      "index": "836.0",
+      "index": "912.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 33"
     },
     "034": {
-      "index": "842.0",
+      "index": "918.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 34"
     },
     "035": {
-      "index": "881.0",
+      "index": "957.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 35"
     },
     "036": {
-      "index": "885.0",
+      "index": "961.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 36"
     },
     "037": {
-      "index": "923.0",
+      "index": "999.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 37"
     },
     "038": {
-      "index": "929.0",
+      "index": "1005.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 38"
     },
     "039": {
-      "index": "967.0",
+      "index": "1043.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 39"
     },
     "040": {
-      "index": "971.0",
+      "index": "1047.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 40"
     },
     "041": {
-      "index": "1008.0",
+      "index": "1084.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 41"
     },
     "042": {
-      "index": "1016.0",
+      "index": "1092.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 42"
     },
     "043": {
-      "index": "1051.0",
+      "index": "1127.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 43"
     },
     "044": {
-      "index": "1088.0",
+      "index": "1164.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 44"
     },
     "045": {
-      "index": "1093.0",
+      "index": "1169.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 45"
     },
     "046": {
-      "index": "1130.0",
+      "index": "1206.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 46"
     },
     "047": {
-      "index": "1136.0",
+      "index": "1212.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 47"
     },
     "048": {
-      "index": "1175.0",
+      "index": "1251.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 48"
     },
     "049": {
-      "index": "1184.0",
-      "style": "\"",
-      "number": "+1",
-      "label": ""
-    },
-    "050": {
-      "index": "1219.0",
-      "style": "\"",
-      "number": "+1",
-      "label": ""
-    },
-    "051": {
-      "index": "1224.0",
-      "style": "\"",
-      "number": "+1",
-      "label": ""
-    },
-    "052": {
       "index": "1260.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 49"
+    },
+    "050": {
+      "index": "1295.0",
+      "style": "\"",
+      "number": "+1",
+      "label": "Pg 50"
+    },
+    "051": {
+      "index": "1300.0",
+      "style": "\"",
+      "number": "+1",
+      "label": "Pg 51"
+    },
+    "052": {
+      "index": "1336.0",
+      "style": "\"",
+      "number": "+1",
+      "label": "Pg 52"
     },
     "053": {
-      "index": "1265.0",
+      "index": "1341.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 53"
     },
     "054": {
-      "index": "1303.0",
+      "index": "1379.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 54"
     },
     "055": {
-      "index": "1340.0",
+      "index": "1416.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 55"
     },
     "056": {
-      "index": "1352.0",
+      "index": "1428.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 56"
     },
     "057": {
-      "index": "1388.0",
+      "index": "1464.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 57"
     },
     "058": {
-      "index": "1402.0",
+      "index": "1478.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 58"
     },
     "059": {
-      "index": "1437.0",
+      "index": "1513.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 59"
     },
     "060": {
-      "index": "1453.0",
+      "index": "1529.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 60"
     },
     "061": {
-      "index": "1490.0",
+      "index": "1566.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 61"
     },
     "062": {
-      "index": "1498.0",
+      "index": "1574.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 62"
     },
     "063": {
-      "index": "1533.0",
+      "index": "1609.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 63"
     },
     "064": {
-      "index": "1544.0",
+      "index": "1620.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 64"
     },
     "065": {
-      "index": "1579.0",
+      "index": "1655.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 65"
     },
     "066": {
-      "index": "1592.0",
+      "index": "1668.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 66"
     },
     "067": {
-      "index": "1628.0",
+      "index": "1704.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 67"
     },
     "068": {
-      "index": "1634.0",
+      "index": "1710.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 68"
     },
     "069": {
-      "index": "1672.0",
+      "index": "1748.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 69"
     },
     "070": {
-      "index": "1676.0",
+      "index": "1752.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 70"
     },
     "071": {
-      "index": "1712.0",
+      "index": "1788.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 71"
     },
     "072": {
-      "index": "1723.0",
+      "index": "1799.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 72"
     },
     "073": {
-      "index": "1762.0",
+      "index": "1838.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 73"
     },
     "074": {
-      "index": "1769.0",
+      "index": "1845.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 74"
     },
     "075": {
-      "index": "1806.0",
+      "index": "1882.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 75"
     },
     "076": {
-      "index": "1810.0",
+      "index": "1886.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 76"
     },
     "077": {
-      "index": "1846.0",
+      "index": "1922.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 77"
     },
     "078": {
-      "index": "1888.0",
+      "index": "1964.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 78"
     },
     "079": {
-      "index": "1891.0",
+      "index": "1967.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 79"
     },
     "080": {
-      "index": "1928.0",
+      "index": "2004.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 80"
     },
     "081": {
-      "index": "1932.0",
+      "index": "2008.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 81"
     },
     "082": {
-      "index": "1969.0",
+      "index": "2045.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 82"
     },
     "083": {
-      "index": "1973.0",
+      "index": "2049.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 83"
     },
     "084": {
-      "index": "2011.0",
+      "index": "2087.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 84"
     },
     "085": {
-      "index": "2015.0",
+      "index": "2091.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 85"
     },
     "086": {
-      "index": "2067.0",
+      "index": "2143.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 86"
     },
     "087": {
-      "index": "2073.0",
+      "index": "2149.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 87"
     },
     "088": {
-      "index": "2108.0",
+      "index": "2184.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 88"
     },
     "089": {
-      "index": "2112.0",
+      "index": "2188.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 89"
     },
     "090": {
-      "index": "2148.0",
+      "index": "2224.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 90"
     },
     "091": {
-      "index": "2156.0",
+      "index": "2232.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 91"
     },
     "092": {
-      "index": "2193.0",
+      "index": "2269.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 92"
     },
     "093": {
-      "index": "2199.0",
+      "index": "2275.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 93"
     },
     "094": {
-      "index": "2236.0",
+      "index": "2312.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 94"
     },
     "095": {
-      "index": "2240.0",
+      "index": "2316.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 95"
     },
     "096": {
-      "index": "2274.0",
+      "index": "2350.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 96"
     },
     "097": {
-      "index": "2280.0",
+      "index": "2356.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 97"
     },
     "098": {
-      "index": "2318.0",
+      "index": "2394.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 98"
     },
     "099": {
-      "index": "2322.0",
+      "index": "2398.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 99"
     },
     "100": {
-      "index": "2363.0",
+      "index": "2439.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 100"
     },
     "101": {
-      "index": "2371.0",
+      "index": "2447.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 101"
     },
     "102": {
-      "index": "2413.0",
+      "index": "2489.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 102"
     },
     "103": {
-      "index": "2418.0",
+      "index": "2494.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 103"
     },
     "104": {
-      "index": "2458.0",
+      "index": "2534.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 104"
     },
     "105": {
-      "index": "2461.0",
+      "index": "2537.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 105"
     },
     "106": {
-      "index": "2520.0",
+      "index": "2596.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 106"
     },
     "107": {
-      "index": "2560.0",
+      "index": "2636.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 107"
     },
     "108": {
-      "index": "2567.0",
+      "index": "2643.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 108"
     },
     "109": {
-      "index": "2623.0",
+      "index": "2699.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 109"
     },
     "110": {
-      "index": "2629.0",
+      "index": "2705.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 110"
     },
     "111": {
-      "index": "2665.0",
+      "index": "2741.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 111"
     },
     "112": {
-      "index": "2670.0",
+      "index": "2746.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 112"
     },
     "113": {
-      "index": "2703.0",
+      "index": "2779.0",
       "style": "\"",
       "number": "+1",
-      "label": ""
+      "label": "Pg 113"
     }
   },
   "imagedir": "C:/Users/Conape03/Documents/lysistrata\\pngs",
