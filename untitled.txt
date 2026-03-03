@@ -92,7 +92,7 @@ And now!--there’s not one woman to be seen.
 Stay, here comes one, my neighbour Calonice.
 Good morning, friend.
 
-      CALONICE. Good morn, Lysistrata.
+CALONICE. Good morn, Lysistrata.
 Why, what’s the matter? don’t look gloomy, child.
 It don’t become you to knit-knot[8] your eyebrows.
 
@@ -101,13 +101,13 @@ And sore I grieve for sake of womankind,
 Because the men account us all to be
 Sly, shifty rogues,
 
-      CA. And so, by Zeus, we are.
+CA. And so, by Zeus, we are.
 
 Ly. Yet though I told them to be here betimes,
 To talk on weighty business, they don’t come,
 They’re fast asleep.
 
-    CA. They’ll come, dear heart, they’ll come.
+CA. They’ll come, dear heart, they’ll come.
 ’Tis hard, you know, for women to get out.
 
 
@@ -134,13 +134,13 @@ One, has to wash him: one, to give him pap.
 Ly. Ah! but they've other duties still more pressing
 Than such as these.
 
-      CA. Well but, Lysistrata,
+CA. Well but, Lysistrata,
 Why have you, dear, convoked us? Is the matter
 A weighty subject?
 
-      LY. Weighty? yes.
+LY. Weighty? yes.
 
-          CA. And pregnant?[9]
+CA. And pregnant?[9]
 
 Ly. Pregnant, by Zeus.
 
@@ -191,14 +191,14 @@ Your paints, and perfumes, and your robes of gauze.
 
 ca. How mean you, save us?
 
-      LY. So that nevermore
+LY. So that nevermore
 Men in our day shall lift the hostile spear--
 
 ca. O, by the Twain,[12] I’ll use the saffron dye.
 
 Ly. Or grasp the shield--
 
-      CA. I’ll don the cambric robe.
+CA. I’ll don the cambric robe.
 
 Ly. Or draw the sword.
 
@@ -213,14 +213,14 @@ Always too late in everything they do.
 Not even one woman from the coast has come,
 Not one from Salamis.
 
-      CA. O they, no doubt,
+CA. O they, no doubt,
 Will cross this morning, early, in their boats.[13]
 
 Ly. And those I counted sure to come the first,
 My staunch Acharnian damsels, they’re not here--
 Not they.
 
-    CA. And yet Theagenes’s wife
+CA. And yet Theagenes’s wife
 Consulted Hecate,[14] as if to come.[15]
 Hi! but they’re coming now: here they all are:
 First one, and then another. Hoity toity!
@@ -244,15 +244,15 @@ Anagyrus. Others soon follow.'']
 -----File: 011.png---------------------------------------------------------
 Whence come all these ?
 
-      Ly. From Anagyre.
+Ly. From Anagyre.
 
-        CA. Aha!
+CA. Aha!
 We've stirred up Anagyre[16] at all events.
 
 MYRRHINA. Are we too late, Lysistrata? Well? What?
 Why don’t you speak?
 
-      LY. I’m sorry, Myrrhina,
+LY. I’m sorry, Myrrhina,
 That you should come so late on such a business.
 
 my. I scarce could find my girdle in the dark.
@@ -262,7 +262,7 @@ LY. No, no, let’s wait a little, till the women
 Of Peloponnesus and Boeotia come
 To join our congress.
 
-      MY. O yes, better so.
+MY. O yes, better so.
 And here, good chance, is Lampito approaching.[17]
 
 Ly. O welcome, welcome, Lampito, my love.
@@ -281,7 +281,7 @@ ly. And who’s this other damsel? whence comes she?
 La. Ane deputation frae Boeoty, comin’
 To sit amang you.
 
-      LY. Ah, from fair Boeotia,
+LY. Ah, from fair Boeotia,
 The land of plains!
 
 [Footnote 16: “To stir up Anagyre (meaning the nauseous smelling shrub
@@ -298,33 +298,33 @@ proved that the deme Anagyre was thoroughly stirred up”: R.]
 Schol.]
 -----File: 012.png---------------------------------------------------------
 -----File: 013.png---------------------------------------------------------
-      CA. A very lovely land,
+CA. A very lovely land,
 Well cropped, and trimmed, and spruce with penny royal.[20]
 
 Ly. And who’s the next?
 
-      LA. A bonnie burdie[21] she,
+LA. A bonnie burdie[21] she,
 She’s a Corinthian lassie.
 
-      LY. Ay, by Zeus,
+LY. Ay, by Zeus,
 And so she is. A bonnie lass, indeed.[22]
 
 La. But wha ha’ ca’ed thegither[23] a’ thae thrangs
 O’ wenches?
 
-    Ly. I did.
+Ly. I did.
 
-      LA. Did ye noo? then tell[24] us
+LA. Did ye noo? then tell[24] us
 What tis a’ for.
 
-    LY. O yes, my dear, I will.
+LY. O yes, my dear, I will.
 m
 y. Ay, surely: tell us all this urgent business.
 
 ty. O yes, I'll tell you now; but first I’d ask you
 One simple question.
 
-      MY. Ask it, dear, and welcome.
+MY. Ask it, dear, and welcome.
 
 ty. Do ye not miss the fathers of your babes,
 Always on service? well I wot ye all
@@ -367,7 +367,7 @@ summer (Thue. viii. 17)”: R.]
 So will you, will you, if I find a way,
 Help me to end the war?
 
-      MY. Ay, that we will.
+MY. Ay, that we will.
 I will, be sure, though I’d to fling me down
 This mantling shawl, and have a bout of—drinking[29]
 
@@ -382,9 +382,9 @@ O ladies! sisters! if we really mean.
 To make the men make Peace, there’s but one way,
 We must abstain—
 
-    MY. Well! tell us.
+MY. Well! tell us.
 
-      LY. Will ye do it?
+LY. Will ye do it?
 
 My. Do it? ay, surely, though it cost our lives.
 
@@ -425,7 +425,7 @@ O friend! O Lampito! if you and I
 Are of one mind, we yet may pull things through;
 Won’t you vote with me, dear?
 
-      LA. Haith, by the Twa’,
+LA. Haith, by the Twa’,
 ’Tis sair to bide your lane, withouten men.
 Still it maun be: we maun hae Peace, at a’ risks.
 
@@ -435,7 +435,7 @@ ca. Well, but suppose we do the things you say,
 Pray Heaven avert it, but put case we do,
 Shall we be nearer Peace?
 
-      LY. Much, much, much nearer.
+LY. Much, much, much nearer.
 For if we women will but sit at home,
 Powdered and trimmed, clad in our daintiest lawn,
 Employing all our charms, and all our arts
@@ -502,10 +502,10 @@ Ly. Good; now then, Scythianess,[35] don’t stand there gaping.
 Quick, set a great black shield here, hollow upwards,
 And bring the sacrificial bits.
 
-      CA. And how
+CA. And how
 Are we to swear, Lysistrata?
 
-      LY. We'll slay
+LY. We'll slay
 
 [Footnote 34: A reserve of 1000 talents set aside for pressing emergency
 (Thuc. ii. 24). It was now proposed (Thuc. viii. 15) to use this in
@@ -518,17 +518,17 @@ women have therefore a Scythianess.]
 (Like those Seven Chiefs in Aeschylus)[36] a lamb
 Over a shield.
 
-    CA. Nay, when our object’s Peace,
+CA. Nay, when our object’s Peace,
 Don’t use a shield, Lysistrata, my dear.
 
 ly. Then what shall be the oath?
 
-      CA. Could we not somehow
+CA. Could we not somehow
 Get a grey mare,[37] and cut her up to bits?
 
 ly. Grey mare, indeed !
 
-      CA. Well, what’s the oath will suit
+CA. Well, what’s the oath will suit
 Us women best?
 
 MY. I’ll tell you what I think.
@@ -553,7 +553,7 @@ La. Ay, an’ by Castor, vera fragrant too!
 
 my. Let ''me'' swear first, my sisters?
 
-      CA. Yes, if ''you''
+CA. Yes, if ''you''
 Draw the first lot; not else, by Aphrodite.[43]
 
 [Footnote 36: Aesch. ''Septem'' 42 [greek]. “The
@@ -588,40 +588,40 @@ Then all the rest confirm it. Now begin.
 
 I will abstain from Love and Love's delights.[44]
 
-    CA. ''I will abstain from Love and Love’s delights.''
+CA. ''I will abstain from Love and Love’s delights.''
 
-    LY. And take no pleasure though my lord invites.
+LY. And take no pleasure though my lord invites.
 
-    CA. ''And take no pleasure though my lord invites.''
+CA. ''And take no pleasure though my lord invites.''
 
-    LY. And sleep a vestal all alone at nights.
+LY. And sleep a vestal all alone at nights.
 
-    CA. ''And sleep a vestal all alone at nights.''
+CA. ''And sleep a vestal all alone at nights.''
 
-    LY. And live a stranger to all nuptial rites.
+LY. And live a stranger to all nuptial rites.
 
-    CA. ''And live a stranger to all nuptial rites.''
-    I don’t half like it though, Lysistrata.
+CA. ''And live a stranger to all nuptial rites.''
+I don’t half like it though, Lysistrata.
 
-    LY. I will abjure the very name of Love.
+LY. I will abjure the very name of Love.
 
-    CA. ''I will abjure the very name of Love.''
+CA. ''I will abjure the very name of Love.''
 
-    LY. So help me Zeus, and all the Powers above.
+LY. So help me Zeus, and all the Powers above.
 
-    CA. ''So help me Zeus, and all the Powers above.''
+CA. ''So help me Zeus, and all the Powers above.''
 
-    LY. If I do this, my cup be filled with wine.
+LY. If I do this, my cup be filled with wine.
 
-    CA. ''If I do this, my cup be filled with wine.''
+CA. ''If I do this, my cup be filled with wine.''
 
-    LY. But if I fail, a water draught be mine.
+LY. But if I fail, a water draught be mine.
 
-    CA. ''But if I fail, a water draught be mine.''
+CA. ''But if I fail, a water draught be mine.''
 
 Ly. You all swear this?
 
-      MY. O yes, my dear, we do.
+MY. O yes, my dear, we do.
 
 ty. I’ll now consume these fragments.[45]
 
@@ -641,12 +641,12 @@ figures of animals on such handles].]
 -----File: 021.png---------------------------------------------------------
 -----File: 022.png---------------------------------------------------------
 
-      CA. Shares, my friend,
+CA. Shares, my friend,
 Now at first starting let us show we're friends.
 
 La. Hark! what’s yon skirlin’?[46]
 
-      Ly. That’s the thing I said.
+Ly. That’s the thing I said.
 They’ve seized the Acropolis, Athene’s castle,
 Our comrades have. Now, Lampito, be off:
 You, go to Sparta, and arrange things there,
@@ -657,7 +657,7 @@ And help the women there to close the bars.
 ca. But don’t you think that very soon the Men
 Will come, in arms, against us?
 
-      Ly. Let them come!
+Ly. Let them come!
 They will not bring or threats or fire enough
 To awe our woman hearts, and make us open
 These gates again, save on the terms we mentioned.
@@ -669,9 +669,9 @@ CHORUS OF MEN. On, sure and slow, my Draces, go: though that great log you’re 
 Of olive green, is sore, I ween, your poor old shoulder wringing.
 O dear, how many things in life belie one’s expectations!
 Since who'd have thought, my Strymodore, that these abominations,
-    Who would have thought that sluts like these,
-    Our household pests, would have waxed so bold,
-    As the Holy Image[48] by fraud to seize,
+Who would have thought that sluts like these,
+Our household pests, would have waxed so bold,
+As the Holy Image[48] by fraud to seize,
 
 [Footnote 46: ''A sound of persons cheering is heard in the distance.'']
 
@@ -686,9 +686,9 @@ they sing their entrance song.'']
 heaven.]
 -----File: 023.png---------------------------------------------------------
 -----File: 024.png---------------------------------------------------------
-    As the City Castle by force to hold,
-    With block and bolt and barrier vast,
-    Making the Propylaea fast.
+As the City Castle by force to hold,
+With block and bolt and barrier vast,
+Making the Propylaea fast.
 Press on, Philurgus, towards the heights; we’ll pile a great amazing
 Array of logs around the walls, and set them all a-blazing:
 And as for these conspirators, a bonfire huge we’ll make them,
@@ -696,18 +696,18 @@ One vote shall doom the whole to death, one funeral pyre shall take them,
 And thus we’ll burn the brood accurst but Lycon’s wife[49] we’ll burn the first.
 No, never, never, whilst I live, shall woman-folk deride me:
 Not scatheless went Cleomenes,[50] when he like this defied me,
-    And dared my castle to seize: yet He,
-    A Spartan breathing contempt and pride,
-    Full soon surrendered his arms to me,
-    And a scanty coat round his loins he tied,
-    And with unwashed limbs, and with unkempt head,
-    And with six years’ dirt, the intruder fled;
+And dared my castle to seize: yet He,
+A Spartan breathing contempt and pride,
+Full soon surrendered his arms to me,
+And a scanty coat round his loins he tied,
+And with unwashed limbs, and with unkempt head,
+And with six years’ dirt, the intruder fled;
 So strict and stern a watch around my mates and I were keeping,
 In seventeen rows of serried shields before the fortress sleeping.
 And <sc>these</sc>, whom both Euripides and all the Powers on high
 Alike detest, shall these, shall these, my manly rage defy?
 Then never be my Trophy shown, on those red plains of Marathon!
-    But over this snubby protruding steep
+But over this snubby protruding steep
 
 [Footnote 49: Rhodia (Schol.), an infamous woman.]
 
@@ -717,27 +717,27 @@ the Acropolis. The “six years” is a comic exaggeration for
 two days.]
 -----File: 025.png---------------------------------------------------------
 -----File: 026.png---------------------------------------------------------
-  Ere we reach our goal at the Castle keep,
+Ere we reach our goal at the Castle keep,
 We've still, with our burdensome load, to creep.
-  And how to manage that blunt incline
-  Without a donkey, I can’t divine.
+And how to manage that blunt incline
+Without a donkey, I can’t divine.
 Dear, how these two great firelogs make my wearied shoulders toil and ache.
-  But still right onward we needs must go,
-  And still the cinders we needs must blow,
+But still right onward we needs must go,
+And still the cinders we needs must blow,
 Else we'll find the fire extinguished, ere we reach our journey’s end.
-      Puff! Puff! Puff!
-      O the smoke! the smoke!
-    O royal Heracles! what a lot
-    Of fire came raging out of the pot,
-  And flew, like a dog, at my eyes, red hot.
-  ’Twas a jet from the Lemnian[51] mines, I ween,
-  It came so fierce, and it bit so keen,
+Puff! Puff! Puff!
+O the smoke! the smoke!
+O royal Heracles! what a lot
+Of fire came raging out of the pot,
+And flew, like a dog, at my eyes, red hot.
+’Twas a jet from the Lemnian[51] mines, I ween,
+It came so fierce, and it bit so keen,
 And worried, with persistence sore, my two poor eyes, inflamed before.
-  On, Laches, on! to the castle press,
-  And aid the God in her dire distress;
+On, Laches, on! to the castle press,
+And aid the God in her dire distress;
 Surely, if we e’er would help her, now’s the very time, my friend.
-      Puff! Puff! Puff!
-      O the smoke! the smoke!
+Puff! Puff! Puff!
+O the smoke! the smoke!
 Thank heaven the fire is still alight, and burning beautifully bright.
 So here we'll lay our burdens down, with eager hearts delighted,
 And dip the vine-torch in the pot, and get it there ignited.
@@ -761,11 +761,11 @@ A trophy o’er these woman-hosts, so bold and domineering.[54]
 
 CHORUS OF WOMEN. Redly up in the sky the flames are beginning to flicker,
 Smoke and vapour of fire! come quicker, my friends, come quicker.
-    Fly, Nicodice, fly,
-    Else will Calyce burn,
-    Else Critylla will die,
-    Slain by the laws so stern,
-    Slain by the old men’s hate.
+Fly, Nicodice, fly,
+Else will Calyce burn,
+Else Critylla will die,
+Slain by the laws so stern,
+Slain by the old men’s hate.
 Ah, but I fear! I fear! can it chance that I come too late?
 Trouble it was, forsooth, before my jug I could fill,
 All in the dusk of the morn, at the spring by the side of the hill,[55]
@@ -787,31 +787,31 @@ north-western angle of the Acropolis.]
 [Footnote 55: The Enneacrounos.]
 -----File: 029.png---------------------------------------------------------
 -----File: 030.png---------------------------------------------------------
-    What with the clatter of pitchers,
-    The noise and press of the throng,
-    Jostling with knaves and slaves,
-    Till at last I snatched it along,
-  Abundance of water supplying
-  To friends who are burning and dying.
+What with the clatter of pitchers,
+The noise and press of the throng,
+Jostling with knaves and slaves,
+Till at last I snatched it along,
+Abundance of water supplying
+To friends who are burning and dying.
 
-    Yea, for hither, they state,
-    Dotards are dragging, to burn us,
-    Logs of enormous weight,
-    Fit for a bath-room furnace,
-    Vowing to roast and to slay
+Yea, for hither, they state,
+Dotards are dragging, to burn us,
+Logs of enormous weight,
+Fit for a bath-room furnace,
+Vowing to roast and to slay
 Sternly the reprobate women.
-        O Lady, O Goddess, I pray,
+O Lady, O Goddess, I pray,
 Ne’er may I see them in flames !
-      I hope to behold them with gladness,
+I hope to behold them with gladness,
 Hellas and Athens redeeming from battle and murder and madness.
-    This is the cause why they venture,
-    Lady, thy mansions to hold,
-    Tritogeneia,[56] Eternal
-    Champion with helmet of gold!
-    And O, if with fire men invade them,
-    O help us with water to aid them.[57]
+This is the cause why they venture,
+Lady, thy mansions to hold,
+Tritogeneia,[56] Eternal
+Champion with helmet of gold!
+And O, if with fire men invade them,
+O help us with water to aid them.[57]
 Stop! easy all! what have we here?
-      (''To the men'') You vile, abandoned crew,
+(''To the men'') You vile, abandoned crew,
 No good and virtuous men, I’m sure, would act in the way you do.
 
 m.cH. Hey, here’s an unexpected sight! hey, here’s a demonstration!
@@ -880,32 +880,32 @@ w.cH. Got any soap, my lad? if so, a bath I’ll soon supply you.
 
 M.cH. A bath for <sc>me</sc>, you mouldy hag!
 
-      W. CH. And that a bride-bath, too.
+W. CH. And that a bride-bath, too.
 
 mM.cH. Zounds, did you hear her impudence?
 
-      W. CH. Ain’t I freeborn as you?
+W. CH. Ain’t I freeborn as you?
 
 M.cH. I’ll quickly put a stop to this.
 
-      W. CH. You’ll judge no more, I vow!
+W. CH. You’ll judge no more, I vow!
 
 mM.cH. Hi! set the vixen’s hair on fire.
 
 W. CH. Now, Achelous,[60] now!
 
-    M. CH. Good gracious!
+M. CH. Good gracious!
 
-      W. CH. What! you find it hot?
+W. CH. What! you find it hot?
 
-    M. CH. Hot? murder! stop! be quiet!
+M. CH. Hot? murder! stop! be quiet!
 
-    W. CH. I’m watering you, to make you grow.
+W. CH. I’m watering you, to make you grow.
 
-    M. CH. I wither up from shivering so.
+M. CH. I wither up from shivering so.
 
-    W. CH. I tell you what: a fire you’ve got,
-    So warm your members by it.[61]
+W. CH. I tell you what: a fire you’ve got,
+So warm your members by it.[61]
 
 MAGISTRATE. Has then the women’s wantonness blazed out,
 
@@ -981,7 +981,7 @@ Push in the crowbars underneath the gates,
 You, stand that side and heave them: I’ll stop here
 And heave them here.[68]
 
-        Ly. O let your crowbars be.
+Ly. O let your crowbars be.
 Lo, I come out unfetched! What need of crowbars?
 ’Tis wits, not crowbars, that ye need to-day.
 
@@ -1027,7 +1027,7 @@ Nay, but I swear we won’t be done by women.
 Come, Scythians, close your ranks, and all together
 Charge!
 
-    LY. Charge away, my hearties, and you’ll soon
+LY. Charge away, my hearties, and you’ll soon
 Know that we’ve here, impatient for the fight,
 Four woman-squadrons, armed from top to toe.
 
@@ -1046,7 +1046,7 @@ ly. What did the fool expect? Was it to fight
 With <sc>slaves<sc> you came? Think you we Women feel
 No thirst for glory?
 
-      MAG. Thirst enough, I trow;
+MAG. Thirst enough, I trow;
 No doubt of that, when there’s a tavern handy.
 
 M.cH. O thou who wastest many words, Director of this nation,
@@ -1055,221 +1055,232 @@ Why wilt thou with such brutes as these thus hold negotiation?
 [Footnote 70: ''The Women come forward. After a short struggle the archers
 are routed.'']
 -----File: 041.png---------------------------------------------------------
-® gdnxidv, wasps’ nest, “ not a very desirable place to rifle for
-honey ; and I suspect that A. is mocking the line of Sophocles
-about taking honey from a wasps’ nest, while the women may be
-wishing to let their opponents know that if they try to rifle their
-sweets, they will bring a swarm of hornets about their ears.” R.
-The line is 4 ognxiay BXitTovew edpdvTes Td: Schol.
-46
 -----File: 042.png---------------------------------------------------------
-THE LYSISTRATA. 469-187
-Dost thou not see the bath wherewith
-the sluts have dared to lave me,
-Whilst all my clothes were on, and ne’er
-a bit of soap they gave me?
-w. cH. For ‘tis not right, nor yct polite,
-to strike a harmless neighbour,
-And if you do, ‘tis needful too
-that she your eyes belabour.
-Full fain would I, a maiden shy,
-in maiden peace be resting,
-Not making here the slightest stir,
-nor any soul molesting,
-Unless indeed some rogue should strive
-to rifle and despoil my hive.?
-M.cH. O how shall we treat, Lord Zeus, such creatures
-as these?
-Let us ask the cause for which they have dared to
-seize,
+Dost thou not see the bath wherewith the sluts have dared to lave me,
+Whilst all my clothes were on, and ne’er a bit of soap they gave me?
+
+w. cH. For ’tis not right, nor yet polite, to strike a harmless neighbour,
+And if you do, ’tis needful too that she your eyes belabour.
+Full fain would I, a maiden shy, in maiden peace be resting,
+Not making here the slightest stir, nor any soul molesting,
+Unless indeed some rogue should strive to rifle and despoil my hive.[71]
+
+M.cH. O how shall we treat, Lord Zeus, such creatures as these?
+Let us ask the cause for which they have dared to seize,
 To seize this fortress of ancient and high renown,
 This shrine where never a foot profane hath trod.
 The lofty-rocked, inaccessible Cranaan town,
 The holy Temple of God.
-Now to examine them closely and narrowly,
-probing them here and sounding them there,
-Shame if we fail to completely unravel the
-intricate web of this tangled affair.
-MaG. Foremost and first I would wish to inquire of them,
-what is this silly disturbance about ?
-Why have ye ventured to seize the Acropolis,
-locking the gates and barring us out ?
+
+Now to examine them closely and narrowly, probing them here and sounding them there,
+Shame if we fail to completely unravel the intricate web of this tangled affair.
+
+MaG. Foremost and first I would wish to inquire of them, what is this silly disturbance about?
+Why have ye ventured to seize the Acropolis, locking the gates and barring us out?
+
+[Footnote 71: [greek], wasps’ nest, “not a very desirable place to rifle for
+honey; and I suspect that A. is mocking the line of Sophocles
+about taking honey from a wasps’ nest, while the women may be
+wishing to let their opponents know that if they try to rifle their
+sweets, they will bring a swarm of hornets about their ears.” R.
+The line is [greek]: Schol.]
 The field is now open for a suspension of hostilities, and a parley
 takes place between the leaders of the two contending factions.
-47
 -----File: 043.png---------------------------------------------------------
-THE LYSISTRATA, 488-501
-LY. Keeping the silver securely in custody,
-lest for its sake ye continue the war.
-Mac. What, is the war for the sake of the silver, then ?
+
+LY. Keeping the silver securely in custody, lest for its sake ye continue the war.
+
+Mag. What, is the war for the sake of the silver, then?
+
 LY. Yes ; and all other disputes that there are.
-Why is Peisander? for ever embroiling us,
-why do the rest of our officers feel
-Always a pleasure in strife and disturbances ?
+Why is Peisander[72] for ever embroiling us, why do the rest of our officers feel
+Always a pleasure in strife and disturbances?
 Simply to gain an occasion to steal.
-Act as they please for the future, the treasury
-never a penny shall yield them, I vow.
-mac. How, may I ask, will you hinder their getting it ?
+Act as they please for the future, the treasury never a penny shall yield them, I vow.
+
+mag. How, may I ask, will you hinder their getting it?
+
 LY. We will ourselves be the Treasurers now.
-MaG. You, woman, you be the treasurers ?
+
+MaG. You, woman, you be the treasurers?
+
 LY. Certainly.
-Ah, you esteem us unable, perchance !
-Are we not skilled in domestic economy,
-do we not manage the household finance ?
-mac. O, that is different.
+Ah, you esteem us unable, perchance!
+Are we not skilled in domestic economy, do we not manage the household finance?
+
+mag. O, that is different.
+
 LY. Why is it different ?
+
 MAG. This is required for the fighting, my dear.
-ty. Well, but the fighting itself isn’t requisite.
+
+ly. Well, but the fighting itself isn’t requisite.
+
 MAG. Only, without it, we’re ruined, I fear.
-ty. WE will deliver you.
-MAG. You will deliver us !
+
+ty. <sc>We</sc> will deliver you.
+
+MAG. You will deliver us!
+
 LY. Truly we will.
-MAG. What a capital notion !
+
+MAG. What a capital notion!
+
 ty. Whether you like it or not, we'll deliver you.
-MAG. Impudent hussy !
+
+MAG. Impudent hussy!
+
 LY. You seem in commotion.
 Nevertheless we will do as we promise you.
+
 MAG. That were a terrible shame, by Demeter.
+
 ty. Friend, we must save you.
-* A politician who advocated war for his own private gain. He
-was at the time scheming to overthrow the democracy. P. 394.
-49
+
+[Footnote 72: A politician who advocated war for his own private gain. He
+was at the time scheming to overthrow the democracy. ''P.'' 394.]
 -----File: 044.png---------------------------------------------------------
-* The pillar containing the Peace of Nicias (Thuc. v. 18).
-Three years later, the Athenians added beneath it, that the
-Lacedaemonians had failed to abide by their oaths (Thue. v. 56).
-50
 -----File: 045.png---------------------------------------------------------
-THE LYSISTRATA, 501-514
+
 MAG. But how if I wish it not ?
+
 LY. That will but make our resolve the completer.
+
 MAG. Fools! what on earth can possess you to meddle with
 matters of war, and matters of peace ?
-ty. Well, I will tell you the reason.
-MAG. And speedily,
-else you will rue it.
+
+ly. Well, I will tell you the reason.
+
+MAG. And speedily, else you will rue it.
+
 LY. Then listen, and cease
-Clutching and ¢lenching your fingers so angrily ;
-keep yourself peaceable.
-MAG. Hanged if I can ;
+Clutching and clenching your fingers so angrily; keep yourself peaceable.
+
+MAG. Hanged if I can;
 Such is the rage that I feel at your impudence.
-ST, Then it is you that will rue it, my man.
+
+ST. Then it is ''you'' that will rue it, my man.
+
 maG. Croak your own fate, you ill-omened antiquity.
-(To Lysistrata) You be the spokeswoman, lady.
+(''To Lysistrata'') ''You'' be the spokeswoman, lady.
+
 LY. I will.
 Think of our old moderation and gentleness,
-think how we bore with your pranks, and were
-still,
+think how we bore with your pranks, and were still,
 All through the days of your former pugnacity,
-all through the war that is over and spent :
-Not that (be sure) we approved of your policy ;
+all through the war that is over and spent:
+Not that (be sure) we approved of your policy;
 never our griefs you allowed us to vent.
-Well we perceived your mistakes and mismanage-
-ment.
+Well we perceived your mistakes and mismanagement.
 Often at home on our housekeeping cares,
 Often we heard of some foolish proposal you
 made for conducting the public affairs.
 Then would we question you mildly and pleasantly,
-inwardly grieving, but outwardly gay ;
-Husband, how goes it abroad 2? we would ask of him ;
-what have ye done in Assembly to-day ?
-What would ye write on the side of the Treaty stone ¢ ?
-Husband says angrily, Vhat’s that to you ?
-51
------File: 046.png---------------------------------------------------------
-@ Homer, /liad, vi. 492.
+inwardly grieving, but outwardly gay;
+''Husband, how goes it abroad?'' we would ask of him;
+''what have ye done in Assembly to-day?''
+''What would ye write on the side of the Treaty stone[73]?''
+Husband says angrily, ''What’s that to you?''
 
-’ ** Tysistrata is putting her system into immediate practice,
-and therefore addresses the same language and assigns the same
-52
+[Footnote 73: The pillar containing the Peace of Nicias (Thuc. v. 18).
+Three years later, the Athenians added beneath it, that the
+Lacedaemonians had failed to abide by their oaths (Thue. v. 56).]
+-----File: 046.png---------------------------------------------------------
 -----File: 047.png---------------------------------------------------------
-THE LYSISTRATA, 515-529
-You, hold your tongue! And I held it accordingly.
-ST. That is a thing which I Never would do !
+''You, hold your tongue!'' And I held it accordingly.
+ST. That is a thing which I <sc>never</sc> would do!
+
 maG. Ma’am, if you hadn’t, you'd soon have repented it.
+
 LY. Therefore I held it, and spake not a word.
 Soon of another tremendous absurdity,
 wilder and worse than the former we heard.
-Husband, I say, with a tender solicitude,
-IWhy have ye passed such a foolish decree ?
+''Husband'', I say, with a tender solicitude,
+''Why have ye passed such a foolish decree?''
 Vicious, moodily, glaring askance at me,
-Stick to your spinning, my mistress, says he,
-Else you will speedily find it the worse for you,
+''Stick to your spinning, my mistress'', says he,
+''Else you will speedily find it the worse for you'',
+<sc>War is the care and the business of men![74]</sc>
 
-Wak IS THE CARE AND THE BUSINESS OF MEN ! 4
-mac. Zeus! ‘twas a worthy reply, and an excellent !
+mag. Zeus! ’twas a worthy reply, and an excellent!
+
 LY. What! you unfortunate, shall we not then,
-
 Then, when we see you perplexed and incompetent,
 shall we not tender advice to the State?
 So when aloud in the streets and the thoroughfares
 sadly we heard you bewailing of late,
-Is there a Man to defend and deliver us ?
-No, says another, there's none in the land ;
+''Is there a Man to defend and deliver us?''
+''No'', says another, ''there's none in the land'';
 Then by the Women assembled in conference
 jointly a great Revolution was planned,
 Hellas to save from her grief and perplexity.
-Where is the use of a longer delay ?
-Shift for the future our parts and our characters ; _
-you, as the women, in silence obey ;
-We, as the men, will harangue and provide for you ;
+Where is the use of a longer delay?
+Shift for the future our parts and our characters;
+you, as the women, in silence obey;
+We, as the men, will harangue and provide for you;
 then shall the State be triumphant again,
 Then shall we do what is best for the citizens.
-MAG. Women to do what is best for the men !
-That were a shameful reproach and unbearable !
-LY. Silence,? old gentleman.
+
+MAG. Women to do what is best for the men!
+That were a shameful reproach and unbearable!
+
+LY. Silence,[75] old gentleman.
+
+[Footnote 74: Homer, ''Iliad'', vi. 492.]
+
+[Footnote 75: “Lysistrata is putting her system into immediate practice,
+and therefore addresses the same language and assigns the same
 duties to the Magistrate, as the Men had been accustomed afore-
-time to address and assign to the Women ”’: R.
-58
+time to address and assign to the Women”: R.]
 -----File: 048.png---------------------------------------------------------
-* A line, to some such effect, has fallen out.
-
-> «Women were in the habit of chewing some eatable as they
-wove or spun’”’: R.
-
-¢ During the foregoing lines the Women have been arraying the
-Magistrate in the garb and with the apparatus of a spinning-
-54
 -----File: 049.png---------------------------------------------------------
-THE LYSISTRATA, 530-549
-MAG. Silence for you ?
-Stop for a wench with a wimple enfolding her ?
-No, by the Powers, may I pir if I do!
+
+MAG. Silence for you
+Stop for a wench with a wimple enfolding her?
+No, by the Powers, may I <sc>die</sc> if I do!
+
 LY. Do not, my pretty one, do not, I pray,
 Suffer my wimple to stand in the way.
 Here, take it, and wear it, and gracefully tie it,
 Enfolding it over your head, and be quiet.
 Now to your task.
-CA. Here is an excellent spindle to pull.2
+
+CA. Here is an excellent spindle to pull.[76]
+
 MY. Here is a basket for carding the wool.
+
 LY. Now to your task.
-Haricots chawing up,® pettiroats drawing up,
+Haricots chawing up,[77] petticoats drawing up,
 Off to yourcarding, your combing, your trimming,
-War IS THE CARE AND THE BUSINESS OF WOMEN.°
+<sc>War is the care and the business of women"[78]</sc>
+
 w.cH. Up, up, and leave the pitchers there,
 and on, resolved and eager,
 Our own allotted part to bear
 in this illustrious leaguer.
-I will dance with resolute, tireless feet all day ;
-My limbs shall never grow faint, my strength give
-way ;
-I will march all lengths with the noble hearts and
-the true,
+I will dance with resolute, tireless feet all day;
+My limbs shall never grow faint, my strength give way;
+I will march all lengths with the noble hearts and the true,
 For theirs is the ready wit and the patriot hand,
 And womanly grace, and courage to dare and do,
 And Love of our own bright land.
+
 Children of stiff and intractable grandmothers,
-heirs of the stinging viragoes that bore you,?
-woman : just as in the corresponding system, below, they bedeck
-him in the habiliments of a corpse.
-@ unrpidiwy is a diminutive of uarnp, but uyrpidiuy daxadrnpav
-means “ seedling nettles.”’
-55
+heirs of the stinging viragoes that bore you,[79]
+
+[Footnote 76: A line, to some such effect, has fallen out.]
+
+[Footnote 77: “Women were in the habit of chewing some eatable as they
+wove or spun”: R.]
+
+[Footnote 78: ''During the foregoing lines the Women have been arraying the
+Magistrate in the garb and with the apparatus of a spinning-woman:
+just as in the corresponding system, below, they bedeck
+him in the habiliments of a corpse.]
+
+[Footnote 79: [greek] is a diminutive of [greek], but [greek]
+means “seedling nettles.”]
 -----File: 050.png---------------------------------------------------------
-@ Lysimacha, ‘“‘she who ends the battle,” is an equivalent of
-Lysistrata, *‘she who dismisses the army.”’ The chief character’s
-name is chosen, of course, to indicate the aim of the proceedings.
-56
 -----File: 051.png---------------------------------------------------------
 On, with an eager, unyielding tenacity,
 wind in your sails, and the haven before you.
@@ -1300,6 +1311,11 @@ Witnessed him, soldierly, buying an omelet,
 stowing it all in his cavalry hat.
 Comes, like a Tereus, a Thracian irregular,4
 shaking his dart and his target to boot ;
+
+[Footnote 80: Lysimacha, “she who ends the battle,” is an equivalent of
+Lysistrata, “she who dismisses the army.” The chief character’s
+name is chosen, of course, to indicate the aim of the proceedings.]
+
 ® The crockery and vegetable stalls: Schol.
 ¢ Phrygian priests of Cybele, who went armed. The Gorgon
 head (560) was a device on the shield.
@@ -2789,3 +2805,4 @@ Whilst your eager voice is singin’
 Praise to Her in might excellin’
 
 Goddess o’ the Brassin Dwellin’.
+P/
